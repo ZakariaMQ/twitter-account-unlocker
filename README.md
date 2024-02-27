@@ -14,11 +14,14 @@ Before using this script, make sure you have the following installed:
 
 1. Add your capsolver api key to `config.ini`:
 2. Get your proxy from [iproyal](https://iproyal.com/?r=SeasonedCode)
+
 <a href="https://iproyal.com/?r=SeasonedCode" target="_blank">
 <img src="https://dashboard.iproyal.com/img/b/728_2.jpg" alt="https://iproyal.com/">
 </a>
+
 3. fill in the account cookies in 'main.py'
 4. Run
-   ```
-   python main.py
+
+   ```bash
+    python main.py
    ```
